@@ -2,38 +2,37 @@
     margin: 0 auto;
     padding: 20px;
     font-family: Arial, sans-serif;
-  }
-  
-  .welcome-container h1 {
+}
+
+.welcome-container h1 {
     text-align: center;
     color: #2c3e50;
-  }
-  
-  .welcome-container p {
+}
+
+.welcome-container p {
     font-size: 16px;
     line-height: 1.5;
     color: #34495e;
-  }
-  
-  .section {
+}
+
+.section {
     margin-top: 20px;
-  }
-  
-  .section h2 {
+}
+
+.section h2 {
     color: #2980b9;
     margin-bottom: 10px;
-  }
-  
-  .image-section {
+}
+
+.image-section {
     margin-top: 30px;
-  }
-  
-  .image-section h2 {
+}
+
+.image-section h2 {
     color: #16a085;
-  }
-  
-  .image-section p {
+}
+
+.image-section p {
     font-size: 14px;
     color: #7f8c8d;
-  }
-  
+}
